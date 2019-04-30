@@ -1,0 +1,236 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-splash-screen] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-directed-scrollview] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-directed-scrollview/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-cardview] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-cardview/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-spinkit] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-spinkit/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-16:12
+MERGED from [:react-native-vector-icons] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/solulab/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/18d1c5b2a71e4bc56cf8a8d8c40fa95f/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b19517a866264d971938312c0500d5be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/312a090770e2723a292c00118d8f733c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/0079a7c6165fd075998a271b5d99af92/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6b113a42b48a71212c4fce18106ff341/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/48018cda7942d4383f40304c2d0b96d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fb35d7cf46b189e924e7f5b691ea88e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/216483b5792c2df394590a812cae5028/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/52a75b25fc7cbafb101c0717f4fd4414/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2c8bdcd593243b4ce2b53327cb84e4e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e1b2d9a679bcb323a22f867418052c34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/58e338dcbce8927863fd9a9d7621302e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6d32ffa32f25c9ed90e8fe2e2fac7b19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c03552165dd3590c452e2f7e5664253e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bba6a882785099bf725ebf39d9a8f79b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/868a32e441456dab8e57e6efd93acd56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/60a60dda03a7aae3b14f960b77d9b661/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/225b8f904da540f4b1ebcc80eefaeb88/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6d7716e3a8f422b7098d9e7b718c71ce/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e333b083499446c2a6a867f4d4e604af/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7b7bc42cf9cb7afbb88616068d64be14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5f95e6ef72d3cde26bdba15701000168/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b3fb353abaad1923261d1e4f6396c36e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e22e38d0a86eb5428c3625192882e67b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aadb1bc5ba50a756c2381d23cafc26fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0fa1f976cc405fe84b3928234398725c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fc49a4315766d25b2dba92ef6bfbc0a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e1fa908e18b0b995666076f6317d5411/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4d56ff622508d1bf792c3244303667be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2a235538a8cc0126ce169d101f92f748/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f53864c9febacabc5ed868bc12a8983b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/780a251dad6dce05d3c93b1e96f33803/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/4fd39565be381e9e83efb9415abaaaa0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/fee0b5fe4722f8c15fbfbb77dccfdd2f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c5c25def91c7b87fbac297798e11d1ff/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/solulab/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4e8a43b7367b8df80cbbea64dd08cc54/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/06b493adae2a2d54da0139d44ee00898/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/solulab/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/18d1c5b2a71e4bc56cf8a8d8c40fa95f/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/solulab/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/18d1c5b2a71e4bc56cf8a8d8c40fa95f/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [:react-native-splash-screen] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-spinkit] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-spinkit/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-14:19
+MERGED from [:react-native-spinkit] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-spinkit/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-14:19
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/solulab/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/18d1c5b2a71e4bc56cf8a8d8c40fa95f/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/solulab/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/18d1c5b2a71e4bc56cf8a8d8c40fa95f/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/225b8f904da540f4b1ebcc80eefaeb88/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/225b8f904da540f4b1ebcc80eefaeb88/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6d7716e3a8f422b7098d9e7b718c71ce/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6d7716e3a8f422b7098d9e7b718c71ce/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c5c25def91c7b87fbac297798e11d1ff/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c5c25def91c7b87fbac297798e11d1ff/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/solulab/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4e8a43b7367b8df80cbbea64dd08cc54/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/solulab/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4e8a43b7367b8df80cbbea64dd08cc54/AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/225b8f904da540f4b1ebcc80eefaeb88/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from [:react-native-spinkit] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-spinkit/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.rigel.MainActivity
+ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-splash-screen] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-directed-scrollview] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-directed-scrollview/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-directed-scrollview] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-directed-scrollview/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-cardview] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-cardview/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-cardview] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-cardview/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-spinkit] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-spinkit/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-spinkit] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-spinkit/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/solulab/Desktop/WorkFolder/rigel/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/solulab/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/18d1c5b2a71e4bc56cf8a8d8c40fa95f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/solulab/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/18d1c5b2a71e4bc56cf8a8d8c40fa95f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b19517a866264d971938312c0500d5be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b19517a866264d971938312c0500d5be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/312a090770e2723a292c00118d8f733c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/312a090770e2723a292c00118d8f733c/AndroidManifest.xml:20:5-44
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/0079a7c6165fd075998a271b5d99af92/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/0079a7c6165fd075998a271b5d99af92/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6b113a42b48a71212c4fce18106ff341/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6b113a42b48a71212c4fce18106ff341/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/48018cda7942d4383f40304c2d0b96d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/48018cda7942d4383f40304c2d0b96d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fb35d7cf46b189e924e7f5b691ea88e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fb35d7cf46b189e924e7f5b691ea88e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/216483b5792c2df394590a812cae5028/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/216483b5792c2df394590a812cae5028/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/52a75b25fc7cbafb101c0717f4fd4414/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/52a75b25fc7cbafb101c0717f4fd4414/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2c8bdcd593243b4ce2b53327cb84e4e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2c8bdcd593243b4ce2b53327cb84e4e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e1b2d9a679bcb323a22f867418052c34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e1b2d9a679bcb323a22f867418052c34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/58e338dcbce8927863fd9a9d7621302e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/58e338dcbce8927863fd9a9d7621302e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6d32ffa32f25c9ed90e8fe2e2fac7b19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6d32ffa32f25c9ed90e8fe2e2fac7b19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c03552165dd3590c452e2f7e5664253e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c03552165dd3590c452e2f7e5664253e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bba6a882785099bf725ebf39d9a8f79b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bba6a882785099bf725ebf39d9a8f79b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/868a32e441456dab8e57e6efd93acd56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/868a32e441456dab8e57e6efd93acd56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/60a60dda03a7aae3b14f960b77d9b661/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/60a60dda03a7aae3b14f960b77d9b661/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/225b8f904da540f4b1ebcc80eefaeb88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/225b8f904da540f4b1ebcc80eefaeb88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6d7716e3a8f422b7098d9e7b718c71ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6d7716e3a8f422b7098d9e7b718c71ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e333b083499446c2a6a867f4d4e604af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e333b083499446c2a6a867f4d4e604af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7b7bc42cf9cb7afbb88616068d64be14/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7b7bc42cf9cb7afbb88616068d64be14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5f95e6ef72d3cde26bdba15701000168/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5f95e6ef72d3cde26bdba15701000168/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b3fb353abaad1923261d1e4f6396c36e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b3fb353abaad1923261d1e4f6396c36e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e22e38d0a86eb5428c3625192882e67b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e22e38d0a86eb5428c3625192882e67b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aadb1bc5ba50a756c2381d23cafc26fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aadb1bc5ba50a756c2381d23cafc26fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0fa1f976cc405fe84b3928234398725c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0fa1f976cc405fe84b3928234398725c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fc49a4315766d25b2dba92ef6bfbc0a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fc49a4315766d25b2dba92ef6bfbc0a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e1fa908e18b0b995666076f6317d5411/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/solulab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e1fa908e18b0b995666076f6317d5411/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4d56ff622508d1bf792c3244303667be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4d56ff622508d1bf792c3244303667be/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2a235538a8cc0126ce169d101f92f748/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2a235538a8cc0126ce169d101f92f748/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f53864c9febacabc5ed868bc12a8983b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f53864c9febacabc5ed868bc12a8983b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/780a251dad6dce05d3c93b1e96f33803/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/780a251dad6dce05d3c93b1e96f33803/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/4fd39565be381e9e83efb9415abaaaa0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/4fd39565be381e9e83efb9415abaaaa0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/fee0b5fe4722f8c15fbfbb77dccfdd2f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/fee0b5fe4722f8c15fbfbb77dccfdd2f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c5c25def91c7b87fbac297798e11d1ff/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c5c25def91c7b87fbac297798e11d1ff/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/06b493adae2a2d54da0139d44ee00898/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/solulab/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/06b493adae2a2d54da0139d44ee00898/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/solulab/Desktop/WorkFolder/rigel/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

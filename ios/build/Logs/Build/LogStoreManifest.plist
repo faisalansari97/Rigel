@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>B086F86C-C1A9-4DAE-86B9-003A38A14486</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B086F86C-C1A9-4DAE-86B9-003A38A14486.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>rigel project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rigel</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project rigel with scheme rigel and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>572958097.24303401</real>
+			<key>timeStoppedRecording</key>
+			<real>572958145.66231501</real>
+			<key>title</key>
+			<string>Building project rigel with scheme rigel and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>B086F86C-C1A9-4DAE-86B9-003A38A14486</string>
+		</dict>
+		<key>FE2C6D6C-3089-4D24-A881-6FBAA456B386</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FE2C6D6C-3089-4D24-A881-6FBAA456B386.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>rigel project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rigel</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project rigel with scheme rigel and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>573028458.92492497</real>
+			<key>timeStoppedRecording</key>
+			<real>573028511.18454003</real>
+			<key>title</key>
+			<string>Building project rigel with scheme rigel and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>FE2C6D6C-3089-4D24-A881-6FBAA456B386</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
